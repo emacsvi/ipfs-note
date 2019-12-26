@@ -8,6 +8,9 @@
 ## 简介
 ipfs,filecoin,go-filecoin,lotus项目源码阅读笔记。
 
+## 系统相关
+  - [磁盘分区相关](/os/lvm.md)
+
 ## 项目地址
 - 项目：[https://github.com/emacsvi/ipfs-note](https://github.com/emacsvi/ipfs-note)
 - 阅读地址: [http://emacsvi.com/ipfs-note/](http://emacsvi.com/ipfs-note/)
